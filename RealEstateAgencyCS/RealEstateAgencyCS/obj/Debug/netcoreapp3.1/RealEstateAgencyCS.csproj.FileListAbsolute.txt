@@ -1,0 +1,13 @@
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\bin\Debug\netcoreapp3.1\RealEstateAgencyCS.exe
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\bin\Debug\netcoreapp3.1\RealEstateAgencyCS.deps.json
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\bin\Debug\netcoreapp3.1\RealEstateAgencyCS.runtimeconfig.json
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\bin\Debug\netcoreapp3.1\RealEstateAgencyCS.runtimeconfig.dev.json
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\bin\Debug\netcoreapp3.1\RealEstateAgencyCS.dll
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\bin\Debug\netcoreapp3.1\RealEstateAgencyCS.pdb
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\obj\Debug\netcoreapp3.1\RealEstateAgencyCS.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\obj\Debug\netcoreapp3.1\RealEstateAgencyCS.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\obj\Debug\netcoreapp3.1\RealEstateAgencyCS.AssemblyInfo.cs
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\obj\Debug\netcoreapp3.1\RealEstateAgencyCS.csproj.CoreCompileInputs.cache
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\obj\Debug\netcoreapp3.1\RealEstateAgencyCS.dll
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\obj\Debug\netcoreapp3.1\RealEstateAgencyCS.pdb
+C:\Users\teko\source\repos\RealEstateAgencyCS\RealEstateAgencyCS\obj\Debug\netcoreapp3.1\RealEstateAgencyCS.genruntimeconfig.cache
